@@ -1,2 +1,3 @@
 # MyTemporary
-This is Zhen's branch.
+
+This is now Zhen'a competitor branch.
